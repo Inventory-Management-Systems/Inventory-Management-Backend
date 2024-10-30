@@ -4,7 +4,7 @@ import java.util.List;
 
 import com.ims.Model.Item;
 
-import dto.EmployeeItemDTO;
+import com.ims.dto.EmployeeItemDTO;
 
 public interface AssignmentService {
 	public List<String> getItemNamesByUserId(int userId);
