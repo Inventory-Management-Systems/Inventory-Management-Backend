@@ -4,7 +4,7 @@ import com.ims.Model.Item;
 import com.ims.exception.UserNotFoundException;
 import com.ims.service.AssignmentService;
 
-import dto.EmployeeItemDTO;
+import com.ims.dto.EmployeeItemDTO;
 
 import java.util.List;
 

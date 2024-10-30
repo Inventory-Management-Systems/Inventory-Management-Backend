@@ -1,4 +1,4 @@
-package dto;
+package com.ims.dto;
 
 public class EmployeeItemDTO {
 	private String employeeName;
