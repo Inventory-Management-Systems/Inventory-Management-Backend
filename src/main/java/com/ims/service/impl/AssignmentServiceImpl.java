@@ -10,7 +10,7 @@ import com.ims.repository.UserRepository;
 import com.ims.service.AssignmentService;
 import com.ims.service.ItemService;
 
-import dto.EmployeeItemDTO;
+import com.ims.dto.EmployeeItemDTO;
 
 import java.util.ArrayList;
 import java.util.Collections;
